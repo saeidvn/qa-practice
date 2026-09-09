@@ -3,6 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 
+# Login test practice
 
 @pytest.fixture
 def browser():
